@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Contohprojectmaven</groupId>
   <artifactId>contohproject</artifactId>
-  <version>0.3.4</version>
+  <version>0.3.7</version>
 
 <dependencies>
   <dependency>
@@ -29,6 +29,8 @@
 
 
 
+
+	
 	
   
 </project>
